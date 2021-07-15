@@ -43,5 +43,4 @@ public class DocumentController {
     public Object deleteDocument() {
         return documentService.deleteDocument();
     }
-
 }
